@@ -1,0 +1,5 @@
+testdata\InvalidCredential.class
+testdata\JsonTestDataReader.class
+testdata\SauceDemoTestData.class
+tests\BaseTest.class
+tests\SauceDemoTests.class

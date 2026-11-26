@@ -1,0 +1,12 @@
+F:\IDEASeleniumFramework\src\main\java\framework\config\ConfigManager.java
+F:\IDEASeleniumFramework\src\main\java\framework\driver\DriverFactory.java
+F:\IDEASeleniumFramework\src\main\java\framework\listeners\ExtentReportListener.java
+F:\IDEASeleniumFramework\src\main\java\framework\pages\CartPage.java
+F:\IDEASeleniumFramework\src\main\java\framework\pages\CheckoutPage.java
+F:\IDEASeleniumFramework\src\main\java\framework\pages\LoginPage.java
+F:\IDEASeleniumFramework\src\main\java\framework\pages\ProductsPage.java
+F:\IDEASeleniumFramework\src\main\java\framework\reports\ExtentReportManager.java
+F:\IDEASeleniumFramework\src\main\java\framework\utils\ElementUtils.java
+F:\IDEASeleniumFramework\src\main\java\framework\utils\JavaScriptUtils.java
+F:\IDEASeleniumFramework\src\main\java\framework\utils\ScreenshotUtils.java
+F:\IDEASeleniumFramework\src\main\java\framework\utils\WaitUtils.java
